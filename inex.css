@@ -1,0 +1,178 @@
+.whole{
+    background-color: navy;
+}
+.six{
+    margin-top: 13px;
+    height: 174px;
+    background-image: linear-gradient(white , #f37575);
+    /* background-image: ; */
+}
+.second{
+    /* background-image: url("top.png"); */
+    /* background-size: cover; */
+    /* height: 19px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .third img{
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    margin: 0px auto;
+} */
+.third{
+    
+    display: flex;
+    /* background-size: cover; */
+    margin-top: 23px;
+    
+    flex-direction: column;
+    width: 68vw;
+    margin: 10px auto;
+    /* margin: 0px auto; */
+    box-shadow: 14px 14px 17px rgb(133, 133, 133);
+    border-top: 3px solid rgb(133, 133, 133);
+    border-left: 3px solid rgb(133, 133, 133);
+    background-image: linear-gradient(to right, rgb(246 255 198) , rgb(244 164 113));
+    border-radius: 14px;
+}
+.third:hover{
+    background-image: linear-gradient(to right,   rgb(244 164 113),rgb(246 255 198));
+
+} 
+.fourth h2{
+    color: rgb(247, 8, 247);
+}
+.imagee img{
+    height: 170px;
+    width: 122px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.seven{
+    width: 68vw;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 14px 14px 17px rgb(133, 133, 133);
+    border-top: 3px solid rgb(133, 133, 133);
+    border-left: 3px solid rgb(133, 133, 133);
+    /* background-image: linear-gradient(to right, rgb(246 255 198) , rgb(180 250 90)); */
+    background-image: linear-gradient(to right, rgb(246 255 198) , rgb(244 164 113));
+
+
+}
+.seven h2{
+    padding: 14px;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(246 255 198) , rgb(244 164 113));
+
+    
+}
+.media{
+    display: flex;
+    margin: 0px auto;
+    width: 68vw;
+    justify-content: space-around;
+    box-shadow: 14px 14px 17px rgb(133, 133, 133);
+    border-top: 3px solid rgb(133, 133, 133);
+    border-left: 3px solid rgb(133, 133, 133);
+}
+body{
+    background-image:linear-gradient( #ececec ,rgb(61, 61, 61)  );
+}
+div{
+    /* background-color: white; */
+    background-image: linear-gradient(to right, rgb(246 255 198) , rgb(244 164 113));
+
+}
+.mmed{
+    width: 68vw;
+    margin:0px auto;
+}
+.six a{
+    size: 12px;
+    padding: 12px;
+}
+.six{
+    font-size: 51px;
+
+}
+.six:hover{
+    background-color: rgb(252, 166, 155);
+}
+.link{
+    margin: 0px auto;
+}
+.imagee{
+    background-image: linear-gradient(to right, rgb(246 255 198) , rgb(244 164 113));
+    
+}
+.imagee :hover{
+    background-image: linear-gradient(to right,   rgb(244 164 113),rgb(246 255 198));
+
+}
+.seven h3{
+    background-image: linear-gradient(to right,   rgb(244 164 113),rgb(246 255 198));
+
+}
+#rank{
+    border-radius: 14px;
+    background-image: url("rank1logo.png");
+    background-size: cover;
+    background-color: rgb(255, 245, 191);
+    /* background-image:linear-gradient( rgb(166, 255, 225),rgba(166, 255, 225,0)); */
+    /* margin:auto auto; */
+    background-size: 150px 68px;;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 100%;
+    height: 194px;
+}
+
+.eleven{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0px auto;
+}
+.eleven a{
+    font-size: 50px;
+    color:red;
+    padding: 12px;
+    /* margin: 12px 0px; */
+    margin: 0px auto;
+
+}
+.twelve{
+    all:unset;
+
+    background-image: linear-gradient(red white);
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    border:5px solid black;
+    padding: 1px;
+    justify-content: space-around;
+    height: 43px;
+
+}
+.twelve a{
+    /* border-right: 5px double red; */
+    text-decoration: none;
+    padding: 5px;
+    line-height: 43px;
+    display: block;
+}
+.twelve a:hover{
+    background-color: red;
+}
+.six a:hover{
+    background-color: red;
+}
+.footer{
+    background-color: red;
+}
